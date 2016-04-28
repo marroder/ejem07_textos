@@ -78,5 +78,5 @@ public void testMultiplicar()
 {
 	Assert.assertEquals(vEsperado,(Integer)calc.multiplicar(valor1, valor2));
 }
-
+//modificacion por guillermo
 
